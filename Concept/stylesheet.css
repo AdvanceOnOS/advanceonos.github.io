@@ -4,3 +4,8 @@ body {
     color: white;
     font-family: sans-serif;
 }
+.dock{
+    position: absolute;
+    bottom: 10px;
+    left: 30px;
+}
