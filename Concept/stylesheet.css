@@ -4,7 +4,7 @@ body {
     color: white;
     font-family: sans-serif;
 }
-.dock{
+.settings{
     position: absolute;
     bottom: 10px;
     left: 30px;
